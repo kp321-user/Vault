@@ -11,6 +11,8 @@
 - [ ]  Confirm no `st.*` calls remain in any `core/` file
 
 ## Backlog
-- [ ]
+- [ ] reveiw functionality od Anthropic API call and token usage
+- [ ] check for streamlit/core seperation
+
 
 ## Done
