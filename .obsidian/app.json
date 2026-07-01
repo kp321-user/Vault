@@ -2,5 +2,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "_general",
   "livePreview": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "defaultViewMode": "preview"
 }
