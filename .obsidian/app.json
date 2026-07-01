@@ -1,4 +1,6 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "_general"
+  "newFileFolderPath": "_general",
+  "livePreview": false,
+  "readableLineLength": false
 }
