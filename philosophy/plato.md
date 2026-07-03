@@ -28,3 +28,9 @@
 
 ## Connected problems
 -
+ 
+## sources of more info
+- 
+## Connected problems
+- Myles Burnyeat (Cambridge) https://www.youtube.com/watch?v=3_kdbJnCMwU
+	-  

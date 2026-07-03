@@ -1,4 +1,4 @@
-# 
+# Western Philosophy — Russell's Scaffolding
 | Philosopher       | Dates        | Period       | School/Tradition | Core Idea                                                        | Key Works                                               | Influence    |
 | ----------------- | ------------ | ------------ | ---------------- | ---------------------------------------------------------------- | ------------------------------------------------------- | ------------ |
 | Thales            | c.624–546 BC | Ancient      | Pre-Socratic     | Water as fundamental substance; first naturalist                 | None surviving                                          | Foundational |
