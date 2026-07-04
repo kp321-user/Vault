@@ -1,7 +1,7 @@
 # William of Ockham (c.1287–1347)
 
 ## In plain terms
-*(your notes here)*
+medieval nominalist
 
 ---
 
