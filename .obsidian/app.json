@@ -3,5 +3,6 @@
   "newFileFolderPath": "_general",
   "livePreview": false,
   "readableLineLength": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true
 }
