@@ -13,6 +13,7 @@ Evil as _privation_ — not a substance but an absence of good, his answer to th
 ## Influences on Augustine
 - [[plato]]
 - [[plotinus]]  
+- Cicero (106–43 BC) famous Roman orator and translator of Greek to Latin. His skeptical  "Academic" (Plato's school in Athens) works shaped Augustine's skeptical phase. _De Republica_ supplied the definition of a commonwealth — a people united by common acknowledgment of right and common interest — that Augustine famously interrogates and revises in _City of God_ XIX, arguing that by Cicero's own definition Rome never was a true republic, since there is no true right without justice, and no justice where God isn't given his due. Cicero ignites Augustine; a millennium later Petrarch's rediscovery of Cicero's letters helps ignite the Renaissance — and Petrarch carried Augustine's _Confessions_ in his pocket. The two keep converting people in tandem.
 
 ## Who Augustine influenced
 - [[aquinas]]
@@ -22,7 +23,8 @@ he'd connect to your [[problem-of-universals]] note too, since his "divine illum
 
 
 ## Key works
--
+- Confessions
+- City of God
 
 ---
 
@@ -32,4 +34,4 @@ Interesting contrast here with Aquinas, who is the opposite case: maximal inputs
 ---
 
 ## Connected problems
--
+-skepticism is what rescued him from Manichaeism. When the Manichee system fell apart, "maybe nothing can be known" was the crowbar that pried him loose from a false certainty he'd held for a decade. If he'd never passed through doubt, he'd never have been emptied out enough to consider Platonism and then Christianity. So skepticism did him a real service — it was, as I put it, a _way station_: not a destination, but a necessary stop that cleared the ground. The esoteric theory let him say "the Academics were good guys after all" instead of having to spit on a rung of his own ladder.
