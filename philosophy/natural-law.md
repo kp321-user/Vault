@@ -1,5 +1,6 @@
 # Natural Law
 https://en.wikipedia.org/wiki/Natural_law
+Augustine-to-Aquinas natural law is core Volume 2 material in Kenny
 
 ## Overview
 *(your notes here)*
